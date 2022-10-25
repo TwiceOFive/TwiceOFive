@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TwiceOFive
+- 👋 Hi, I’m Miro aka @TwiceOFive
 - 👀 I’m interested in automation testing using robot 🤖 framework
 - 🌱 I’m currently learning python 🐍➕🤖 robot framework
 - 📫 How to reach me new06048@gmail.com
